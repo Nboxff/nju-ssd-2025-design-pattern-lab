@@ -25,7 +25,7 @@
 ### 安装与构建
 
 ```bash
-git clone https://github.com/your-repo/nju-ssd-2025s-design-patterns-lab.git
+git clone https://github.com/your-repo/nju-ssd-2025-design-pattern-lab.git
 cd nju-ssd-2025s-design-patterns-lab
 mvn install
 ```
